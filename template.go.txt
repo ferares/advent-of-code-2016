@@ -1,0 +1,11 @@
+package days
+
+type Day# struct {}
+
+func (Day#) Puzzle1(input string) string {
+	return input
+}
+
+func (Day#) Puzzle2(input string) string {
+	return input
+}
