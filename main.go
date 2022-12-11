@@ -70,6 +70,7 @@ func getDaySolution(day string) solutions.DaySolution {
 		case "1": daySolution = days.Day1{}
 		case "2": daySolution = days.Day2{}
 		case "3": daySolution = days.Day3{}
+		case "4": daySolution = days.Day4{}
 		// case "#": daySolution = days.Day#{}
 	}
 	return daySolution
